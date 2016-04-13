@@ -1,0 +1,12 @@
+@import "~react-toolbox/lib/commons";
+
+:global {
+  #container {
+    display: flex;
+    /*
+    justify-content: center;
+    padding: 50px;
+    */
+    margin-left: 450px;
+  }
+}
